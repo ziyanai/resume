@@ -7,13 +7,13 @@ author_profile: true
 
 {% include toc %}
 
-## Part-time Research Assistant
+{## Part-time Research Assistant
 <hr class="custom-hr">
 **Location:** Hong Kong Metropolitan University  
 **Period:** Jul 2024 – Dec 2024
 
  - Compile data from several internet sources to back up research initiatives and raise the standard of academic output.
- - Provide students with suggestions for revising their papers; help them improve the quality of the sentences in their academic articles; guide them in refining the framework and restructuring data. Additionally, refine the overall logical structure to reach a standard suitable for journal submission.
+ - Provide students with suggestions for revising their papers; help them improve the quality of the sentences in their academic articles; guide them in refining the framework and restructuring data. Additionally, refine the overall logical structure to reach a standard suitable for journal submission.}
 
 
 
